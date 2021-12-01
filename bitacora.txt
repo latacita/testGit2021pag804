@@ -6,3 +6,6 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ 12	stash
+ 13	checkout master
+ 14				     Fast-forward
