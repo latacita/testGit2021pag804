@@ -10,9 +10,18 @@
  02	branch Paco
  03	branch Lola
  04 	checkout Paco
+ 06	add
+ 07	commit
+ 08	checkout Lola
+ 10	add
+ 11	commit
  12	stash
  13	checkout master
  14				     Fast-forward
  16	add
  17	commit
  18	merge Paco + atom bitacora.txt + add + commit		Recursiva con conflictos
+ 20	add
+ 21	commit
+ 22	checkout Lola
+ 23	stash apply
