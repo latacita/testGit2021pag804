@@ -13,3 +13,6 @@
  12	stash
  13	checkout master
  14				     Fast-forward
+ 16	add
+ 17	commit
+ 18	merge Paco + atom bitacora.txt + add + commit		Recursiva con conflictos
