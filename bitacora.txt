@@ -1,11 +1,15 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Almohalla Gómez, Pablo               %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ 01	clone
+ 02	branch Paco
+ 03	branch Lola
+ 04 	checkout Paco
  12	stash
  13	checkout master
  14				     Fast-forward
