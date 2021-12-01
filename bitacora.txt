@@ -25,3 +25,7 @@
  21	commit
  22	checkout Lola
  23	stash apply
+ 25	add
+ 26	commit
+ 27	checkout master
+ 28	merge Lola + atom bitacora.txt + add + commit		Recursiva con conflictos
