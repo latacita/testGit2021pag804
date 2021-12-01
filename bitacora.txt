@@ -9,3 +9,9 @@
  06	add
  07	commit
  08	checkout Lola
+ 10	add
+ 11	commit
+ 20	add
+ 21	commit
+ 22	checkout Lola
+ 23	stash apply
